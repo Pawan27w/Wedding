@@ -7,6 +7,16 @@ body {
   overflow-x: hidden;
 }
 
+.page-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6em;
+  color: #8b0000;
+  margin-top: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+
 /* ===== HERO SECTION ===== */
 .hero {
   position: relative;
